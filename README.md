@@ -75,4 +75,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## **Screenshots**
 ### Here's a sneak peek of the BOOKIFY app:
 
+
 <img src="https://github.com/Cakewhale97/ReactNat/assets/121439769/d3291cb3-e4aa-480c-9a27-e062d04f7c99" width="300">
+<img src="https://github.com/Cakewhale97/ReactNat/assets/121439769/e375631e-e0fa-4f7a-8c6b-52f45b329f0c" width="300">
+<img src="https://github.com/Cakewhale97/ReactNat/assets/121439769/a9a204df-095f-4e50-9ee9-8773039afd19" width="300">
+
